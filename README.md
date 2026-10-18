@@ -4,7 +4,7 @@ EDC JSSUN Technical Team recruitment, Task 01 (first-year applicants).
 
 A single-page site for VentureVerse 2026, a fictional EDC event: 12 November 2026, 10:00 AM to 3:00 PM, University Auditorium, JSS University, Noida.
 
-Live site: _add your GitHub Pages link here_
+Live site: https://satanrayshe.github.io/ventureverse-2026/
 
 ## How to run it
 
